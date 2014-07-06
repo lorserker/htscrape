@@ -1,0 +1,4 @@
+lxml
+
+git+git://github.com/niklasb/webkit-server.git
+git+git://github.com/niklasb/dryscrape.git
