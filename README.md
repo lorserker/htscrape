@@ -1,4 +1,8 @@
 htscrape
 ========
 
-hello
+
+if X is not installed
+$ xvfb-run python
+
+
